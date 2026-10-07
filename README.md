@@ -2,15 +2,6 @@
 
 LINK : https://huggingface.co/spaces/Lishika/tetris-final
 
-
-title: Tetris RL — LLM Long-Horizon Planning via OpenEnv
-emoji: 🎮
-colorFrom: indigo
-colorTo: green
-sdk: docker
-hardware: gpu-t4-s
-pinned: false
-app_port: 7860
 Tetris RL — LLM Long-Horizon Planning via OpenEnv
 Teaching language models to think ahead by playing Tetris. A turn-based Tetris environment built on the OpenEnv framework where an LLM agent must learn to stack pieces, clear lines, and manage long-term board health — skills that require genuine multi-step planning, not pattern matching.
 
